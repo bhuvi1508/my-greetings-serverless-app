@@ -8,8 +8,7 @@ In this project, you will build a serverless web application using AWS Lambda, D
 
 ### Project Architecture:
 
-![Serverless Web Application on AWS Architecture]((https://github.com/user-attachments/assets/db2382a7-4cf5-4cf0-b81b-f3bc5b68a80a)
-)
+![Serverless Web Application on AWS Architecture](https://github.com/user-attachments/assets/db2382a7-4cf5-4cf0-b81b-f3bc5b68a80a)
 
 ### Steps to Build the Project:
 
