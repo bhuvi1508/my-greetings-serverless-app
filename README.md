@@ -1,34 +1,35 @@
-# Serverless Web Application on AWS
+Serverless Web Application on AWS
+Project Name: Serverless Web Application on AWS
+Project Overview:
+In this project, you will create a robust serverless web application using AWS Lambda, DynamoDB, S3, and CloudFront. The application will empower users to perform CRUD operations on a DynamoDB table through a responsive and dynamic web interface hosted on AWS.
 
-## Project Name: Serverless Web Application on AWS
-
-### Project Description:
-
-In this project, you will build a serverless web application using AWS Lambda, DynamoDB, and S3. The application will allow users to create, read, update, and delete (CRUD) items from a DynamoDB table.
-
-### Project Architecture:
+Project Architecture:
 
 ![Serverless Web Application on AWS Architecture](https://github.com/user-attachments/assets/db2382a7-4cf5-4cf0-b81b-f3bc5b68a80a)
 
-### Steps to Build the Project:
+Steps to Build the Project:
 
-* Create a DynamoDB table to store the items. \
-* Build a Lambda function to handle the CRUD operations on the DynamoDB table. \
-* Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript). \
-* Create a CloudFront distribution to serve the S3-hosted static files with low latency. \
+1. Create DynamoDB Table: Set up a DynamoDB table to store and manage application data.
 
-### Expected Outcome:
+2. Develop Lambda Functions: Implement Lambda functions to handle CRUD operations on the DynamoDB table.
 
-Upon completing the project, you will have a working serverless web application hosted on AWS. \
-You will have hands-on experience building a serverless application using AWS Lambda, DynamoDB, S3, CloudFront. \
-Additionally, you will have experience working with AWS services and integrating them to build a complete solution.
+3. Utilize S3 for Static Files: Leverage S3 to store and serve static files (HTML, CSS, JavaScript) for the web application.
 
-This project will help you improve your skills in cloud computing, serverless architecture, and AWS services.
+4. Deploy with CloudFront: Configure a CloudFront distribution to deliver the S3-hosted application with low-latency, high-speed access.
 
-Link to the documentation: https://docs.google.com/document/d/1FKIs7_yF0D98dHC1D-_pE494EiNF5xhP3s7YCRzw3B8/edit?usp=sharing. 
+Expected Outcome:
 
- 
+Upon completion of this project, you will have:
 
+A fully functional serverless web application deployed on AWS.
+
+Hands-on experience integrating AWS Lambda, DynamoDB, S3, and CloudFront to build scalable applications.
+
+Enhanced skills in cloud computing, serverless architecture, and AWS service integration.
+
+Project Documentation:
+
+For detailed steps and documentation, refer to the
 
 
 
