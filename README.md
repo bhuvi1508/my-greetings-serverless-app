@@ -31,7 +31,7 @@ In this project, you will create a robust serverless web application using AWS L
 
 ### Project Documentation:
 
-For detailed steps and documentation, refer to the 
+For complete blog post checkout this link https://medium.com/@bhuvi01/serverless-web-application-on-aws-e61993b49366
 
 
 
