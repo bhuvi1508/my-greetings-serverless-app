@@ -21,13 +21,13 @@ In this project, you will create a robust serverless web application using AWS L
 
 ### Expected Outcome:
 
-Upon completion of this project, you will have:
+  Upon completion of this project, you will have:
 
-A fully functional serverless web application deployed on AWS.
+  A fully functional serverless web application deployed on AWS.
 
-Hands-on experience integrating AWS Lambda, DynamoDB, S3, and CloudFront to build scalable applications.
+  Hands-on experience integrating AWS Lambda, DynamoDB, S3, and CloudFront to build scalable applications.
 
-Enhanced skills in cloud computing, serverless architecture, and AWS service integration.
+  Enhanced skills in cloud computing, serverless architecture, and AWS service integration.
 
 ### Project Documentation:
 
